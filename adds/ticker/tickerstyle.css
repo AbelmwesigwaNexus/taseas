@@ -1,0 +1,12 @@
+
+
+ /* THIS LINE CONTROLS THE FONT SIZE ON ALL PAGES */
+
+TABLE 			{ COLOR: #000033; FONT: 13px geneva, verdana, arial, sans-serif }
+
+
+
+
+ /* TICKER LOCATION ON PAGE */
+
+#ticker			{ right: 10px; POSITION: absolute; top: 10px }
